@@ -15,7 +15,7 @@
           "options": {
             "outputPath": "dist/one-piece-app",
             "index": "src/index.html",
-            "main": "src/main.ts",  // Certifique-se de que este campo está correto
+            "main": "src/main.ts",
             "polyfills": [
               "zone.js"
             ],
